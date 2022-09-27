@@ -1,0 +1,7 @@
+{
+    "extensions": [
+        "rebornix.Ruby"
+    ],
+    "onCreateCommand": "bundle install --local",
+    "postCreateCommand": ""
+  }
